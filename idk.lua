@@ -18,8 +18,8 @@ local rebirthRemote = game:GetService("ReplicatedStorage").Package.Events.reb
 
 local quests = {
     { name = "X Fighter Trainer", nickname = "X Fighter", requiredValue = 0, endRange = 30000 },
-    { name = "Radish", nickname = "Radish", requiredValue = 100001 , endRange = 200000 },
-    { name = "Mapa", nickname = "Mapa", requiredValue = 200001, endRange = 300000 },
+    { name = "Radish", nickname = "Radish", requiredValue = 30001 , endRange = 40000 },
+    { name = "Mapa", nickname = "Mapa", requiredValue = 40001, endRange = 300000 },
     { name = "Citizen", nickname = "Evil Saya", requiredValue = 300001, endRange = 400000  },
     { name = "Top X Fighter", nickname = "X Fighter Master", requiredValue = 400001, endRange = 700000 },
     { name = "Super Vegetable", nickname = "Super Vegetable", requiredValue = 750001, endRange = 1200000 },
